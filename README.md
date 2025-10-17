@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently an undergraduate student at Northeastern University, majoring in computer science and mathematics.
 <!--
 **emanuel8006/emanuel8006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
